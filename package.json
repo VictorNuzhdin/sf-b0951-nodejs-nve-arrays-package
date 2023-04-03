@@ -1,0 +1,26 @@
+{
+  "name": "nve-arrays",
+  "version": "1.0.0",
+  "description": "Java Script Array methods | For Skill Factory study project (B9, Task B9.5.1)",
+  "author": "Victor Nuzhdin <nuzhdin.vicx@yandex.ru>",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+	"type": "git",
+	"url": "git+https://github.com/VictorNuzhdin/sf-task951-nodejs-nve-arrays-package.git"
+  },
+  "homepage": "https://github.com/VictorNuzhdin/sf-task951-nodejs-nve-arrays-package#readme",
+  "bugs": {
+	"url": "https://github.com/VictorNuzhdin/sf-task951-nodejs-nve-arrays-package/issues"
+  },
+  "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+	  "node",
+	  "arrays"
+  ],
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
