@@ -1,4 +1,4 @@
-# sf-task951-nodejs-nve-arrays-package
+# sf-b0951-nodejs-nve-arrays-package
 For Skill Factory study project (B9, Task B9.5.1) (nodejs npm package)
 
 <br>
